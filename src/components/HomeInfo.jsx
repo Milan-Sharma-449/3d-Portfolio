@@ -12,6 +12,7 @@ const HomeInfo = ({ currentStage }) => {
         <br />
         A Software Engineer from Mathura, INDIA
       </h1>
+
     );
 
   if (currentStage === 2) {

@@ -10,6 +10,14 @@ const CTA = () => {
       <Link to='/contact' className='btn'>
         Contact
       </Link>
+      <br/>
+      <p className='cta-text'>
+        Want to know about me? <br className='sm:block hidden' />
+        Visit to my website.  <br className='sm:block hidden' />
+      </p>
+      <Link to='https://milansharma.me/portfolio' className='btn'>
+        Website
+      </Link>
     </section>
   );
 };
