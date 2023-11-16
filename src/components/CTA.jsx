@@ -12,11 +12,11 @@ const CTA = () => {
       </Link>
       <br/>
       <p className='cta-text'>
-        Want to know about me? <br className='sm:block hidden' />
-        Visit to my website.  <br className='sm:block hidden' />
+        Want to know more about me? <br className='sm:block hidden' />
+        Visit to my Portfolio Website.  <br className='sm:block hidden' />
       </p>
       <div className='btn'>
-        <a href="https://milansharma.me/portfolio/" >Website</a>
+        <a href="https://milansharma.me/portfolio" >Portfolio</a>
       </div>
     </section>
   );
