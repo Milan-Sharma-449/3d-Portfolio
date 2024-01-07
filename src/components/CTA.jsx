@@ -15,8 +15,8 @@ const CTA = () => {
         Want to know more about me? <br className='sm:block hidden' />
         Visit to my Portfolio Website.  <br className='sm:block hidden' />
       </p>
-      <div className='btn'>
-        <a href="https://milansharma.me/portfolio" >Portfolio</a>
+      <div>
+        <a className="btn" href="https://milansharma.me/portfolio" > Portfolio</a>
       </div>
     </section>
   );
