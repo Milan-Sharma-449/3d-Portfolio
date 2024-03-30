@@ -16,7 +16,7 @@ const Navbar = () => {
           Projects
         </NavLink>
         <div>
-          <a href="https://milansharma.me/portfolio" >Portfolio</a>
+          <a href="https://milansharma.site/portfolio" >Portfolio</a>
         </div>
       </nav>
     </header>
